@@ -1,0 +1,6 @@
+public class SinDescuento implements EstrategiaDescuento{
+    @override
+    public double aplicar(double subtotal){
+        return subtotal;
+    }
+}
