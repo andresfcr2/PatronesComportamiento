@@ -6,10 +6,9 @@ Primer contacto con Template Method, antes del repositorio `template-method-repo
 
 ## Carpetas
 
-| Carpeta | Qué contiene |
-|---|---|
-| `00-inicio` | `Tinto` y `Aromatica` copian los mismos pasos, y en `Aromatica` quedaron en otro orden. |
-| `01-template-method` | La clase abstracta `Bebida` fija el orden en `preparar()`; cada bebida solo escribe su ingrediente. |
+| Carpeta | Qué contiene                                                                            |
+| ------- | --------------------------------------------------------------------------------------- |
+| `src`   | `Tinto` y `Aromatica` copian los mismos pasos, y en `Aromatica` quedaron en otro orden. |
 
 Los cambios están marcados con comentarios `// Paso N`.
 
