@@ -15,12 +15,12 @@ Los cambios están marcados con comentarios `// Paso N`.
 ## Compilar y ejecutar
 
 ```
-cd 00-inicio
+cd src
 javac *.java
 java Main
 ```
 
-## Síntoma que se observa en `00-inicio`
+## Síntoma que se observa en `src`
 
 La aromática se sirve **antes** de agregarle las hierbas: la consola muestra los pasos 1, 3, 2. Nada impide que una clase cambie el orden de la receta.
 
